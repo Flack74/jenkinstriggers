@@ -1,0 +1,3 @@
+Randomness Tests: These tests assess the randomness of a dataset.
+Pattern Detection: They help determine if a dataset follows a random distribution or if there are any patterns or biases.
+Simulation Models: Randomness tests are used to ensure the data used in simulations is indeed random and reliable. 
