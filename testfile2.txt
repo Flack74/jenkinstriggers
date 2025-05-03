@@ -1,0 +1,20 @@
+Random testing is software testing in which the system is tested with the help of generating random and independent inputs and test cases. Random testing is also named monkey testing. It is a black box assessment outline technique in which the tests are being chosen randomly and the results are being compared by some software identification to check whether the output is correct or incorrect.
+Some important points about Random Testing:
+
+    Random testing was first examined by Melvin Breuer in the year 1971.
+    This testing was initially assessed by Pratima and Vishwani Agrawal in the year 1975 to check the successful output of the software.
+    For random testing, there is also a book that contains some formulas for the number of tests that can be taken and the number of successful results and failure results.
+
+Working Random Testing:
+
+Step-1: Identify Input domain
+
+Step-2: Select test inputs independently/randomly from the input domain
+
+Step-3: Test the system on these inputs and form a random test set
+
+Step-4: Compare the result with system specification
+
+Step-5: If the Report fails then take necessary action.
+
+The below image represents the working of Random Testing more clearly.
